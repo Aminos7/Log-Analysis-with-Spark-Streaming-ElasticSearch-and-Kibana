@@ -8,6 +8,6 @@
 - 👍 The workflow consists of **generating continuous log data** in a log file. then **process** it using **spark streaming**, the output is **stored with Elastic Search** and **visualized  in a Dashboard using Kibana**.
 - 💥 Here is a small **tutorial** to **run the project** on **your own machine** :
   - 🙌 [Project tutorial](https://github.com/isbainemohamed/SparkStreamingProject/blob/main/SparkStreaminProject_Isbaine_Jawhar_Snoussi_Report_final.pdf)
-  - 🤝 This work has been done by : [Snoussi Amine](https://github.com/Aminos7), [Jawhar Mohammed](https://github.com/javo2) , [Isbaine mohamed](https://github.com/isbainemohamed) and [Me](https://github.com/labrijisaad).
-- 📫 Feel free to contact me (**labrijisaad@gmail.com**), or the collaborators if anything is wrong or if anything needs to be changed 😎!  
+  - 🤝 This work has been done by : [Labriji Saad](https://github.com/labrijisaad), [Jawhar Mohammed](https://github.com/javo2) , [Isbaine mohamed](https://github.com/isbainemohamed) and [Me](https://github.com/Aminos7).
+- 📫 Feel free to contact me (**aminesnoussi313@gmail.com**), or the collaborators if anything is wrong or if anything needs to be changed 😎!  
 
